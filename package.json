@@ -1,0 +1,30 @@
+{
+  "name": "basic-nodejs",
+  "version": "1.0.0",
+  "description": "Let's try basic Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node part1/index.js",
+    "check": "node -v",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/YuukiTakao/basic-nodejs.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "YuukiTakao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuukiTakao/basic-nodejs/issues"
+  },
+  "homepage": "https://github.com/YuukiTakao/basic-nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
