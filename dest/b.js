@@ -1,0 +1,1 @@
+'use strict';console.log('bb');var add=function add(a,b){return a+b;};
